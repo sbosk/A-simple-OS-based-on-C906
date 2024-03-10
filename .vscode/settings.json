@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "uart.h": "c",
+        "basc.h": "c",
+        "stdarg.h": "c",
+        "printf.h": "c",
+        "stdint.h": "c",
+        "malloc.h": "c",
+        "mem_malloc.h": "c",
+        "switch.h": "c",
+        "interrupt.h": "c"
+    }
+}
